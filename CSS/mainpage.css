@@ -122,7 +122,7 @@
     cursor: pointer;
     height: 75px;
     width: 75px;
-    margin-top: -95px;
+    margin-top: -82px;
     margin-left: 1375px;
     border-radius: 37px;
     /* z-index: 1; */
@@ -206,7 +206,7 @@
     cursor: pointer;
     height: 75px;
     width: 75px;
-    margin-top: -95px;
+    margin-top: -82px;
     margin-left: 1290px;
     border-radius: 37px;
     /* z-index: 1; */
@@ -366,7 +366,7 @@
     cursor: pointer;
     height: 75px;
     width: 75px;
-    margin-top: -95px;
+    margin-top: -82px;
     margin-left: 1205px;
     border-radius: 37px;
     /* z-index: 1; */
@@ -385,7 +385,7 @@
     width: 350px;
     height: 650px;
     margin-left: 1165px;
-    margin-top: -105px !important;
+    margin-top: -82px !important;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     /* visibility: hidden; */
@@ -430,10 +430,11 @@
 
 
 #online{
-    font-size: 48px;
+    /* position: absolute; */
+    font-size: 36px;
     color: black;
-    margin-top: 300px;
-    margin-left: 25px;
+    margin-top: 275px;
+    margin-left: 20px;
     font-weight: bold;
 }
 
@@ -442,7 +443,7 @@
     border-right: 1px solid rgba(0, 0, 0, 0.25);
     height: 585px;
     margin-left: 300px;
-    margin-top: -385px !important;
+    margin-top: -340px !important;
 }
 
 #verticalLineRigth{
@@ -450,7 +451,7 @@
     border-right: 1px solid rgba(0, 0, 0, 0.25);
     height: 585px;
     margin-left: 1200px;
-    margin-top: -385px !important;
+    margin-top: -340px !important;
     
 }
 
@@ -459,7 +460,7 @@
     border-bottom: 4px solid rgba(0, 0, 0, 0.25);
     width: 255px;
     margin-left: 15px;
-    margin-top: -50px !important;
+    margin-top: -10px !important;
 }
 
 #horizontalLineMiddle{
@@ -472,8 +473,8 @@
 
 #invite{
     position: absolute;
-    margin-top: 40px;
-    margin-left: 1040px;
+    margin-top: 30px;
+    margin-left: 1050px;
 }
 
 #inviteButton{
