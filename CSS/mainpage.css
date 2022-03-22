@@ -1,3 +1,7 @@
+/* body{
+    height: 200px !important;
+} */
+
 #mainPageColor{
     position: absolute;
     margin-left: -8px;
@@ -220,8 +224,8 @@
     background-color: white;
     width: 600px;
     height: 450px;
-    margin-left: 925px;
-    margin-top: 180px !important;
+    margin-left: 915px;
+    margin-top: 147px !important;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
@@ -380,7 +384,7 @@
     background-color: white;
     width: 350px;
     height: 650px;
-    margin-left: 1183px;
+    margin-left: 1165px;
     margin-top: -105px !important;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -436,7 +440,7 @@
 #verticalLineLeft{
     position: absolute;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
-    height: 600px;
+    height: 585px;
     margin-left: 300px;
     margin-top: -385px !important;
 }
@@ -444,7 +448,7 @@
 #verticalLineRigth{
     position: absolute;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
-    height: 600px;
+    height: 585px;
     margin-left: 1200px;
     margin-top: -385px !important;
     
